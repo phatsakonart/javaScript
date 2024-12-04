@@ -10,3 +10,4 @@ if(true){
 }
 
 const fixval = "Fix Value";
+console.log(fixval);
